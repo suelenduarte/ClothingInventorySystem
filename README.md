@@ -24,7 +24,7 @@
 <h3>Category section</h3>
 
 <img src="https://suelenduarte.github.io/ClothingInventorySystem/images/category-add.PNG" width = 450 height = 300> 
-<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/category-all.PNG" width = 450 height = 300> 
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/category-search.PNG" width = 450 height = 300> 
 
 <h3>User section</h3>
 
