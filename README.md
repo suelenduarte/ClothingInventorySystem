@@ -6,5 +6,5 @@
 
 <h3>Final Output</h3>
 
-
-<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/login.PNG" width = 200 height = 200> 
+<h2>Login and main form</h2>
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/login.PNG" width = 300 height = 300> 
