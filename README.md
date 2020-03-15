@@ -1,6 +1,6 @@
 <h1>Clothing Inventory System</h1>
 
-<p>This project has four tables: Product, costumer, category, and user.</p>
+<p>This project has four tables: Product, costumer, category, and user. I am using SQL databse to save, update, delete, and search for information.</p>
 
 <h3>Final Output</h3>
 
