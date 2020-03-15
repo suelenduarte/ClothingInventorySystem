@@ -11,9 +11,9 @@
 
 <h3>Customer section</h3>
 
-<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-add.PNG" width = 350 height = 300> 
-<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-all.PNG" width = 350 height = 300> 
-<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-search.PNG" width = 350 height = 300> 
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-add.PNG" width = 450 height = 300> 
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-all.PNG" width = 450 height = 300> 
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-search.PNG" width = 450 height = 300> 
 
 <h3>Product section</h3>
 
@@ -25,7 +25,6 @@
 
 <img src="https://suelenduarte.github.io/ClothingInventorySystem/images/category-add.PNG" width = 350 height = 300> 
 <img src="https://suelenduarte.github.io/ClothingInventorySystem/images/category-all.PNG" width = 350 height = 300> 
-<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/category-search.PNG" width = 350 height = 300> 
 
 <h3>User section</h3>
 
