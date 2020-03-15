@@ -1,10 +1,14 @@
 <h1>Clothing Inventory System</h1>
 
-<p>This project calculates the basal metabolic rate (the amount of energy that you spend at rest), the activity level metabolic rate, and body fat percentage.</p>
-
-<p>All the user information is saved into the SQL database.</>
+<p>This project has four tables: Product, costumer, category, and user.</p>
 
 <h3>Final Output</h3>
 
 <h2>Login and main form</h2>
 <img src="https://suelenduarte.github.io/ClothingInventorySystem/images/login.PNG" width = 350 height = 300> 
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/main.PNG" width = 350 height = 300> 
+
+<h2>Customer section</h2>
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-add.PNG" width = 350 height = 300> 
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-all.PNG" width = 350 height = 300> 
+<img src="https://suelenduarte.github.io/ClothingInventorySystem/images/customer-search.PNG" width = 350 height = 300> 
